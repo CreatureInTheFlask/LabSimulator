@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 3fe7fd4cc6f10764c8347f7109beaf19
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TH SarabunPSK
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 15b7b1a49e11dbc4ca8cf422a129db4f, type: 3}
+  - {fileID: 12800000, guid: 04b553bb0b68eb144b676f5deac8296c, type: 3}
+  - {fileID: 12800000, guid: 92ce3dea7f0fb5248a4498b25e2855d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

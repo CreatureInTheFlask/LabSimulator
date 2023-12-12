@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/lab1.unity
+    guid: d57d4d4a246b3e44ea0bd95cf1ab1fad
+  - enabled: 1
+    path: Assets/Scenes/Oldmenu.unity
+    guid: e8719cdec84b4ee409acdfa3fe27fae5
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: aa6df3c2b9a10da419dfd273d47227e9
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 2.unity
+    guid: f2531124395bc574493f6b65a317c70e
+  - enabled: 1
+    path: Assets/Scenes/lab1part2.unity
+    guid: 2c8d0cc7f36bf83448a996dffe991118
+  - enabled: 1
+    path: Assets/Scenes/BeforeStage2.unity
+    guid: d9c7a84161754224aa77fcc804071dd6
+  - enabled: 1
+    path: Assets/Scenes/lab1 1.unity
+    guid: 56f4983c09af52749aef28c25190edc5
+  - enabled: 1
+    path: Assets/Scenes/newMenu.unity
+    guid: 4b14d585e47a7004ebf3969a20b973b9
+  - enabled: 1
+    path: Assets/Scenes/ObjectiveStage2.unity
+    guid: 7054f7f1735d3004db94fb702cbce8f2
+  - enabled: 1
+    path: Assets/Scenes/sample.unity
+    guid: a3d018a04f5da074c8708cd0d3da857e
+  - enabled: 1
+    path: Assets/Scenes/Stage2 1.unity
+    guid: 7e2fd74e0df289745b89dfdf8e39d2b9
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: 9df9abfc73616d3438b7c8181dfac632
+  - enabled: 1
+    path: Assets/Scenes/QuizStage2.unity
+    guid: fc8cdbc33a805ea44a3d87c129aefb68
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c954dd2def56f5a4b9d1e9918c8efc21,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8b403607b6c15b74f9920ddf5655a5c9,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 15ceee618e5463e48a71073f64631d5f,
+      type: 2}

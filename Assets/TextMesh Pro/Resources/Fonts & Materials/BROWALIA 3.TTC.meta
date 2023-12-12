@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: afdb3802c0d0b1742a3bd8e3772c6219
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Browallia New
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 58bcec976401cc94daaca9af7dfab409, type: 3}
+  - {fileID: 12800000, guid: 05dd706f736c7a044be3f2f9150abfbe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
